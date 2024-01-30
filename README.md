@@ -1,7 +1,6 @@
 # China_IPv4_CIDR_list
 某商业使用的高精度 IPv4 数据库，范围是 中国大陆 IP 段，含国内 IDC 的 Anycast IP
-上游**据说**是 ipip.net 的商业版
 
-如有错误，欢迎反馈 issue / pr
+本项目暂时弃用，请改用 ipip.net 上游：
 
-不定时同步上游更新
+https://github.com/17mon/china_ip_list
